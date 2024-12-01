@@ -1,6 +1,6 @@
 add_rules("mode.debug", "mode.release")
 set_warnings("all", "extra", "pedantic")
-set_languages("c17", "c++23")
+set_languages("c23", "c++23")
 set_optimize("fastest")
 add_rules("c++.unity_build")
 set_exceptions("no-cxx")
