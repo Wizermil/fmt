@@ -1,5 +1,5 @@
-#ifndef WIZ_ARG_INCLUDE_HPP
-#define WIZ_ARG_INCLUDE_HPP
+#ifndef WIZ_CMD_INCLUDE_HPP
+#define WIZ_CMD_INCLUDE_HPP
 #pragma once
 
 #include <string>
@@ -22,4 +22,4 @@ namespace wiz
 	};
 }
 
-#endif // WIZ_ARG_INCLUDE_HPP
+#endif // WIZ_CMD_INCLUDE_HPP

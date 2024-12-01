@@ -1,5 +1,5 @@
-#ifndef WIZ_ARG_OUTPUT_HPP
-#define WIZ_ARG_OUTPUT_HPP
+#ifndef WIZ_CMD_OUTPUT_HPP
+#define WIZ_CMD_OUTPUT_HPP
 #pragma once
 
 #include <string>
@@ -22,4 +22,4 @@ namespace wiz
 	};
 }
 
-#endif // WIZ_ARG_OUTPUT_HPP
+#endif // WIZ_CMD_OUTPUT_HPP

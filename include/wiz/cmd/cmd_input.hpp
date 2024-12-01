@@ -1,5 +1,5 @@
-#ifndef WIZ_ARG_INPUT_HPP
-#define WIZ_ARG_INPUT_HPP
+#ifndef WIZ_CMD_INPUT_HPP
+#define WIZ_CMD_INPUT_HPP
 #pragma once
 
 #include <string>
@@ -22,4 +22,4 @@ namespace wiz
 	};
 }
 
-#endif // WIZ_ARG_INPUT_HPP
+#endif // WIZ_CMD_INPUT_HPP
